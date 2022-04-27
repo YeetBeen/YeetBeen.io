@@ -2,6 +2,6 @@
 
 GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
 
-# GBA Emulator Website
+# GBA Emulator Website https://yeetbeen.github.io/YeetBeen.io/
 
 
